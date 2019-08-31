@@ -1,0 +1,2 @@
+#define SECRET_PINNUMBER ""
+#define SECRET_YOUR_NUMBER ""
